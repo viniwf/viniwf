@@ -5,13 +5,13 @@ Estudante de Análise e Desenvolvimnto de Sistemas
 
 <div align="center">
   <a href="https://github.com/viniwf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniwf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniwf&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=viniwf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniwf&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
   
-  <img align="center" alt="Vini-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Vini-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
    
   <img align="center" alt="Vini-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
