@@ -5,7 +5,7 @@ Estudante de Análise e desenvolvimnto de sistemas
 
 <div align="center">
   <a href="https://github.com/viniwf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasFernandes25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniwf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniwf&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
