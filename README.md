@@ -1,4 +1,4 @@
-### Olá! sou o Vinícius Fernandes
+### Prazer! Eu sou o Vinícius
 Estudante de Análise e desenvolvimnto de sistemas
 
 ##
