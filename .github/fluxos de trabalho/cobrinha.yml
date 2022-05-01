@@ -10,7 +10,7 @@ empregos:
  nome: Empregos para atualizar dados
  em funcionamento: ubuntu-mais recente
  passos:
-
+      # Animação cobra
  - usos: Platane/snk@master
         id: snake-gif
  com:
